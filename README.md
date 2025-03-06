@@ -6,6 +6,14 @@ Full Stack Software Engineer
 
 * 🌍  I'm based in Austin, TX.
 
+### Badges
+
+<a href="https://www.credly.com/badges/23bfcf71-92f0-4ef8-9b11-543f5a41ad0e/public_url">
+    <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100">
+</a>
+
+
+
 ### Skills
 
 
