@@ -5,6 +5,7 @@ Full Stack Software Engineer
 ----------------------------
 
 * 🌍  I'm based in Austin, TX.
+* 🌍 Remote-first — no commute, no stress, no burnout.
 
 ### Badges
 
